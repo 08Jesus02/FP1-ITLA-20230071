@@ -6,8 +6,7 @@ El programa, al recibir los tres lados de un triángulo, calcula su área.
 
 LA1, LA2, LA3, AUX y ARE: variables de tipo real. */
 
-int
- main(void) 
+int main(void) 
 {
 float LA1, LA2, LA3, AUX, ARE;
 printf("Ingrese los lados del triángulo: ");
