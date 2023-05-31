@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Estancia 
+/* Estancia
 El programa, al recibir como dato la superficie de estancia expresada
 en acres, la convierte a hectareas.
 
