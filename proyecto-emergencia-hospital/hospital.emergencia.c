@@ -5,9 +5,8 @@ int main()
     int consciente, sangrado, dificultadRespirar, dolorPecho, fiebre;
 
     printf("Programa de Emergencia del Hospital\n");
-    ˝
 
-        printf("¿El paciente está consciente y respirando? (1: Sí, 0: No): ");
+    printf("¿El paciente está consciente y respirando? (1: Sí, 0: No): ");
     scanf("%d", &consciente);
 
     if (!consciente)
