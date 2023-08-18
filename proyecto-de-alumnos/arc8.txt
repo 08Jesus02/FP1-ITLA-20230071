@@ -6,3 +6,4 @@ Fisica	      Francisco	87.00	76.00	95.00	86.00
 Redaccion	Darwin	98.00	77.00	85.00	86.67
 Circuito	Victor	77.00	89.00	87.00	84.33
 Ingles	       Frangel	78.00	98.00	77.00	84.33
+Matematicas	Angel	78.00	88.00	95.00	87.00
